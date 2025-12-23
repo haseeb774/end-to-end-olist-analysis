@@ -1,0 +1,27 @@
+REVENUE IS INCREASING OVER TIME
+less delivery time more review score
+top categories product are furniture or electronics
+57% customer give 5 rating review score
+top 3 product who made more profits are: watches_gift , health_beuty , bed_bath_table
+more time delay of delivery less review 
+fast delivery = good review
+some of too much delay  time delivery have good review it can be of customer living very far and get order according to that time
+Average Delivery Time: 12.02 days
+Median Delivery Time: 10.00 days
+Percentage of Late Deliveries : 7.24%
+Percentage of Very Late Deliveries : 3.11%
+many outlier in delivery time most data in 1 to 30 days range but there is also delay of 209 days delivery
+6 % orders late based on expected , 94 % orders on time 
+state : AL , PA ,PI, MA , SE , CE . these state have worst late delivery from 15 to 20 % late orders
+there is relation between order_deliver and review_score early = good_Review and less score in late Deliveries
+more order and revenue in spring and summer season
+less order and revenue in winter and autumn
+more delivery_time in winter and autumn
+from first 3 month of 2016 order_delivery_delay was high but ut gradually descrease and now n 2018 there are no late deliveries
+high freight value = less time delivery and most of data have less than 150 $ freight value
+there is relation between freight cost and delivery time 
+in these month : 9, 10, 11, 12, 1, 2 revenue go from normally 500000 to 750000 but in month:  3,4,5,6,7,8 revenuw was normally 850000 to 1 million plus
+
+many customer buy one time and then dont come back  mostly these called at risk : 17,500 customers 
+12,500 are loyal who bought everytime but with many time late and 7,200 were new_customer who vough 2 to 3 time but hadnot leave
+and 7,000 customers are champion who significantly buy our products 

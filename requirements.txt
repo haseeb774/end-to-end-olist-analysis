@@ -7,5 +7,6 @@ dill
 catboost
 xgboost
 lightgbm
+scikit-learn
 flask
 # -e .
